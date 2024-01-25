@@ -1,14 +1,31 @@
 <div align="center">
     <h1 align="center"> Hello, this is us! 👋 </h1>
-    We are <b>FrenchBakery</b>, competing in the <b>2023 Botball Game</b>.
+    We are <b>FrenchBakery</b>, competing in the <b>2024 Botball Open Game</b>.
 </div>
 
 ---
 
 # Repositories
 
-Because with so many repos there might be a bit of confusion,
+Because there might be a bit of confusion,
 here is a brief overview:
+
+### Shared
+
+- **[dev_template](https://github.com/frenchbakery/dev_template)** KIPR controller <ins>development template</ins> for VSCode
+- **[navigation](https://github.com/frenchbakery/navigation)** The <ins>navigation system</ins> used by both the tiramisu and the croissant robot
+- **[kiprplus](https://github.com/frenchbakery/kiprplus)** <ins>Extension to libkipr</ins> (libwallaby) adding some extra functionality and improvements
+- **[osbuilder](https://github.com/frenchbakery/osbuilder)** <ins>Build scripts</ins> and <ins>environment</ins> for WombatOS software
+- **[botui](https://github.com/frenchbakery/botui)** <ins>Robot User Interface</ins> for the KIPR Controllers (Link, Wallaby, Wombat)
+- **[libkipr](https://github.com/frenchbakery/libkipr)** Library for <ins>interfacing</ins> with the <ins>KIPR Wombat firmware</ins>
+- **[BotballUI](https://github.com/frenchbakery/BotballUI)** Used to <ins>run our programs</ins> on the robots
+- **[web_remote](https://github.com/frenchbakery/web_remote)** Control Wombat <ins>motors and sensors remotely</ins>!
+- **[remote_server](https://github.com/frenchbakery/remote_server)** Implements a <ins>remote control</ins> for motors / servos / create
+
+
+# 2023 Botball Repositories
+
+These repositories are projects for the 2023 Botball Season.
 
 ### Main
 
@@ -22,19 +39,6 @@ here is a brief overview:
 ### Tiramisu
 
 - **[tiramisu_gripper](https://github.com/frenchbakery/tiramisu_gripper)** <ins>Driver</ins> for Tiramisu's Gripper
-
-
-### Shared
-
-- **[dev_template](https://github.com/frenchbakery/dev_template)** KIPR controller <ins>development template</ins> for VSCode
-- **[navigation](https://github.com/frenchbakery/navigation)** The <ins>navigation system</ins> used by both the tiramisu and the croissant robot
-- **[kiprplus](https://github.com/frenchbakery/kiprplus)** <ins>Extension to libkipr</ins> (libwallaby) adding some extra functionality and improvements
-- **[osbuilder](https://github.com/frenchbakery/osbuilder)** <ins>Build scripts</ins> and <ins>environment</ins> for WombatOS software
-- **[botui](https://github.com/frenchbakery/botui)** <ins>Robot User Interface</ins> for the KIPR Controllers (Link, Wallaby, Wombat)
-- **[libkipr](https://github.com/frenchbakery/libkipr)** Library for <ins>interfacing</ins> with the <ins>KIPR Wombat firmware</ins>
-- **[BotballUI](https://github.com/frenchbakery/BotballUI)** Used to <ins>run our programs</ins> on the robots
-- **[web_remote](https://github.com/frenchbakery/web_remote)** Control Wombat <ins>motors and sensors remotely</ins>!
-- **[remote_server](https://github.com/frenchbakery/remote_server)** Implements a <ins>remote control</ins> for motors / servos / create
 
 ### Documentation
 
