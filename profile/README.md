@@ -9,6 +9,7 @@
 
 This is just a quick overview of what each repository is about.
 
+Please note that most of the 2024 repositories are private at the moment, as they still need to be prepared and cleaned up for publication.
 
 ## Highlights
 
